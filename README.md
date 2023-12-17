@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm alex syubarjo</h1>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 <h3 align="left">Connect with me:</h3>
