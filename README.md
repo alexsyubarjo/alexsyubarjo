@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm alex syubarjo</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h3 align="center">A passionate Developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexsyubarjo&label=Profile%20views&color=0e75b6&style=flat" alt="alexsyubarjo" /> </p>
 
