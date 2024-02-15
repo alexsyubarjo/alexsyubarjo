@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [linktr.ee/alex_syubarjo](linktr.ee/alex_syubarjo)
 
-- 💬 Ask me about **Fremowork,Database,ui /ux design**
+- 💬 Ask me about **Fremework,Database,ui /ux design**
 
 - 📫 How to reach me **kerjasama.alex@gmail.com**
 
