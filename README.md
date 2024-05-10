@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm alex syubarjo</h1>
+<h1 align="center">Hi 👋, I'm Nanda Pratama</h1>
 <h3 align="center">A Passionate Developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexsyubarjo&label=Profile%20views&color=0e75b6&style=flat" alt="alexsyubarjo" /> </p>
